@@ -26,7 +26,7 @@ export default function SearchBar({searchedLocation}) {
             searchedLocation(details?.geometry?.location)
         }}
       query={{
-        key: 'AIzaSyB9ctiAb-J9CZil_ZlpAg3ZOXpxwudHlNw',
+        key: '',
         language: 'en',
       }}
     />
